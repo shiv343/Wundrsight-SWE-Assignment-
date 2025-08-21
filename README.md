@@ -36,21 +36,21 @@ cd Wundrsight-SWE-Assignment-
 Install dependencies:
 
 npm install
-# or
+or
 yarn install
 
-Set up environment variables:
+#Set up environment variables:
 
 Create a .env file in the root folder and add your backend API URL:
 
 REACT_APP_API_URL=http://localhost:5000
 
-Running the Project
+#Running the Project
 
-Start the development server:
+#Start the development server:
 
 npm start
-# or
+or
 yarn start  
 
 Open http://localhost:3000
